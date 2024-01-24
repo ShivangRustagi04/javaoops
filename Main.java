@@ -1,4 +1,4 @@
-import java.util.Arrays;
+// new keyword dynamically allocates momeory and returns a reference value to it
 
 class Main {
   public static void main(String[] args){
